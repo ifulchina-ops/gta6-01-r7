@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Port Almar — Open-World Crime Game</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="wrap">
+  <canvas id="game" width="1280" height="720"></canvas>
+  <div id="menu" class="overlay">
+    <h1 id="menu-title">PORT ALMAR</h1>
+    <div id="menu-body"></div>
+    <button id="menu-btn" type="button">START ENGINE</button>
+    <p class="fine">An original open-world crime game. No real city, person or brand appears in it.
+    Progress saves in your browser. Sound starts on first click.</p>
+  </div>
+  <div id="shop" class="overlay hidden">
+    <h1 id="shop-title">SHOP</h1>
+    <div id="shop-body"></div>
+    <button id="shop-close" type="button">CLOSE (B)</button>
+  </div>
+  <div id="help" class="corner">WASD drive / move &nbsp;•&nbsp; E car &nbsp;•&nbsp; F punch &nbsp;•&nbsp; Click shoot &nbsp;•&nbsp; M mission &nbsp;•&nbsp; B shop &nbsp;•&nbsp; Esc pause</div>
+</div>
+<script type="module" src="src/boot.js"></script>
+</body>
+</html>
