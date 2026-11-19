@@ -1,8 +1,8 @@
 # Port Almar
 
-[![make.fun](https://make.fun/badge/competition/gta6-01)](https://make.fun/c/gta6-01)
-[![make.fun](https://make.fun/badge/entry/gta6-01-r7)](https://make.fun/c/gta6-01)
-[![make.fun](https://make.fun/badge/play/gta6-01-r7)](https://make.fun/c/gta6-01)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/ifulchina-ops/gta6-01-r7/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/ifulchina-ops/gta6-01-r7/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 An original open-world crime game for the **gta6-01** "Make GTA 6" competition, built from scratch in this repository. You are **Dario Venn**, a wheelman for fixer **Selma Okafor**, working the sun-soaked harbor city of **Port Almar** — six districts, from the Glass Quay towers to the Marina Verde beach, the Old Cannery warehouses, Palmera Heights, the Dune Strip and the Ironworks Docks.
 
